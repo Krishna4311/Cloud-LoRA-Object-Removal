@@ -1,7 +1,5 @@
 # Cloud-LoRA-Object-Removal
 
-Fine-tuning Stable Diffusion Inpainting with LoRA to seamlessly remove objects from skies, featuring alpha-channel mask softening for blending.
-
 ## Overview
 This repository contains a rapid-prototyping project focused on removing unwanted objects (such as airplanes or drones) from sky photography. Instead of relying on traditional copy-paste algorithms, this project utilizes a custom-trained LoRA to generate entirely new cloud textures that seamlessly match the global lighting and atmospheric perspective of the original image.
 
